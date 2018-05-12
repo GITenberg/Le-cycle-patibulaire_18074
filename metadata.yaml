@@ -1,0 +1,28 @@
+_repo: Le-cycle-patibulaire_18074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eekhoud, Georges
+    birthdate: 1854
+    deathdate: 1927
+    gutenberg_agent_id: '6122'
+    url: http://www.gutenberg.org/2009/agents/6122
+    wikipedia: http://fr.wikipedia.org/wiki/Georges_Eekhoud
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2006-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18074'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Le cycle patibulaire
+url: http://www.gutenberg.org/ebooks/18074
