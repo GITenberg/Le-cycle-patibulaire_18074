@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6122
     wikipedia: http://fr.wikipedia.org/wiki/Georges_Eekhoud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18074#Le-cycle-patibulaire
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2006-03-29'
 gutenberg_type: Text
